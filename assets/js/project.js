@@ -6789,8 +6789,8 @@ visible:'1'
 si1351:{
 name:'ResponsiveContainer_19',
 type:1268,
-from:271,
-to:360,
+from:151381,
+to:151470,
 rp:0,
 rpa:0,
 mdi:'si1351c',
@@ -6964,8 +6964,8 @@ vb:[-1,-1,1,1]
 si1359:{
 name:'$container-multiple-choice-card_name_1',
 type:1268,
-from:271,
-to:360,
+from:151381,
+to:151470,
 rp:0,
 rpa:0,
 mdi:'si1359c',
@@ -7180,8 +7180,8 @@ vb:[-1,-1,1,1]
 si1367:{
 name:'Text_352',
 type:1250,
-from:271,
-to:360,
+from:151381,
+to:151470,
 rp:0,
 rpa:0,
 mdi:'si1367c',
@@ -7329,8 +7329,8 @@ vb:[-2,-2,150,30]
 si1376:{
 name:'Text_353',
 type:1250,
-from:271,
-to:360,
+from:151381,
+to:151470,
 rp:0,
 rpa:0,
 mdi:'si1376c',
@@ -7481,8 +7481,8 @@ vb:[-1,-1,2,2]
 si1385:{
 name:'Button_226',
 type:29,
-from:271,
-to:360,
+from:151381,
+to:151470,
 rp:0,
 rpa:0,
 mdi:'si1385c',
@@ -7635,8 +7635,8 @@ vb:[-2,-2,-1,-1]
 si1403:{
 name:'Button_227',
 type:29,
-from:271,
-to:360,
+from:151381,
+to:151470,
 rp:0,
 rpa:0,
 mdi:'si1403c',
@@ -7789,8 +7789,8 @@ vb:[-2,-2,-1,-1]
 si1418:{
 name:'Button_228',
 type:29,
-from:271,
-to:360,
+from:151381,
+to:151470,
 rp:0,
 rpa:0,
 mdi:'si1418c',
@@ -7943,8 +7943,8 @@ vb:[-2,-2,-1,-1]
 si1433:{
 name:'Button_229',
 type:29,
-from:271,
-to:360,
+from:151381,
+to:151470,
 rp:0,
 rpa:0,
 mdi:'si1433c',
@@ -8097,8 +8097,8 @@ vb:[-2,-2,-1,-1]
 si1448:{
 name:'Button_230',
 type:29,
-from:271,
-to:360,
+from:151381,
+to:151470,
 rp:0,
 rpa:0,
 mdi:'si1448c',
@@ -8251,8 +8251,8 @@ vb:[-2,-2,-1,-1]
 si1457:{
 name:'Button_231',
 type:29,
-from:271,
-to:360,
+from:151381,
+to:151470,
 rp:0,
 rpa:0,
 mdi:'si1457c',
@@ -8405,8 +8405,8 @@ vb:[-2,-2,-1,-1]
 si1472:{
 name:'Button_232',
 type:29,
-from:271,
-to:360,
+from:151381,
+to:151470,
 rp:0,
 rpa:0,
 mdi:'si1472c',
@@ -8559,8 +8559,8 @@ vb:[-2,-2,-1,-1]
 si1489:{
 name:'Checkbox_1',
 type:10090,
-from:271,
-to:360,
+from:151381,
+to:151470,
 rp:0,
 rpa:0,
 mdi:'si1489c',
@@ -8592,7 +8592,7 @@ iflbx:false,
 ipflbx:true,
 sz:1,
 ccmn:'',
-ic:true,
+ic:false,
 si:[]
 ,
 te:true,
@@ -8720,8 +8720,8 @@ vb:[-2,-2,-1,-1]
 si1501:{
 name:'Checkbox_2',
 type:10090,
-from:271,
-to:360,
+from:151381,
+to:151470,
 rp:0,
 rpa:0,
 mdi:'si1501c',
@@ -8881,8 +8881,8 @@ vb:[-2,-2,-1,-1]
 si1852:{
 name:'Checkbox_3',
 type:10090,
-from:271,
-to:360,
+from:151381,
+to:151470,
 rp:0,
 rpa:0,
 mdi:'si1852c',
@@ -9042,8 +9042,8 @@ vb:[-2,-2,-1,-1]
 si1864:{
 name:'Checkbox_4',
 type:10090,
-from:271,
-to:360,
+from:151381,
+to:151470,
 rp:0,
 rpa:0,
 mdi:'si1864c',
@@ -9075,7 +9075,7 @@ iflbx:false,
 ipflbx:true,
 sz:1,
 ccmn:'',
-ic:false,
+ic:true,
 si:[]
 ,
 te:true,
@@ -9203,8 +9203,8 @@ vb:[-2,-2,-1,-1]
 si1526:{
 name:'Caption_1',
 type:612,
-from:271,
-to:360,
+from:151381,
+to:151470,
 rp:0,
 rpa:0,
 mdi:'si1526c',
@@ -9434,8 +9434,8 @@ vb:[-4,-4,2,2]
 si1537:{
 name:'Caption_1',
 type:612,
-from:271,
-to:360,
+from:151381,
+to:151470,
 rp:0,
 rpa:0,
 mdi:'si1537c',
@@ -9665,8 +9665,8 @@ vb:[-4,-4,2,2]
 si1548:{
 name:'Caption_1',
 type:612,
-from:271,
-to:360,
+from:151381,
+to:151470,
 rp:0,
 rpa:0,
 mdi:'si1548c',
@@ -9896,8 +9896,8 @@ vb:[-4,-4,2,2]
 si1513:{
 name:'Caption_1',
 type:612,
-from:271,
-to:360,
+from:151381,
+to:151470,
 rp:0,
 rpa:0,
 mdi:'si1513c',
@@ -10157,8 +10157,8 @@ vb:[-4,-4,2,2]
 si1877:{
 name:'Caption_1',
 type:612,
-from:271,
-to:360,
+from:151381,
+to:151470,
 rp:0,
 rpa:0,
 mdi:'si1877c',
@@ -10388,8 +10388,8 @@ vb:[-4,-4,2,2]
 si1888:{
 name:'Caption_1',
 type:612,
-from:271,
-to:360,
+from:151381,
+to:151470,
 rp:0,
 rpa:0,
 mdi:'si1888c',
@@ -10619,8 +10619,8 @@ vb:[-4,-4,2,2]
 si1571:{
 name:'Caption_2',
 type:612,
-from:271,
-to:360,
+from:151381,
+to:151470,
 rp:0,
 rpa:0,
 mdi:'si1571c',
@@ -10850,8 +10850,8 @@ vb:[-4,-4,2,2]
 si1582:{
 name:'Caption_2',
 type:612,
-from:271,
-to:360,
+from:151381,
+to:151470,
 rp:0,
 rpa:0,
 mdi:'si1582c',
@@ -11081,8 +11081,8 @@ vb:[-4,-4,2,2]
 si1593:{
 name:'Caption_2',
 type:612,
-from:271,
-to:360,
+from:151381,
+to:151470,
 rp:0,
 rpa:0,
 mdi:'si1593c',
@@ -11312,8 +11312,8 @@ vb:[-4,-4,2,2]
 si1558:{
 name:'Caption_2',
 type:612,
-from:271,
-to:360,
+from:151381,
+to:151470,
 rp:0,
 rpa:0,
 mdi:'si1558c',
@@ -11561,8 +11561,8 @@ vb:[-4,-4,2,2]
 Slide1306:{
 lb:'Multiple choice 1',
 id:1306,
-from:271,
-to:360,
+from:151381,
+to:151470,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -11626,9 +11626,9 @@ bph:[]
 ,
 bookmarks:[]
 ,
-qs:'Slide1306q0',
-qnq:0,
-pa:314,
+qs:'Slide1306q6',
+qnq:6,
+pa:151426,
 iph:{
 1341:{
 ts:'',
@@ -11665,7 +11665,7 @@ uid:1306,
 dn:'Slide1306',
 visible:'1'
 },
-Slide1306q0:{
+Slide1306q6:{
 noa:1024,
 qt:'',
 it:false,
@@ -11677,7 +11677,7 @@ qst:3,
 ish:false,
 ips:false,
 hma:false,
-qnq:0,
+qnq:6,
 sn:'Slide1306',
 oid:'$$OBJECTIVE_ID',
 iid:'1327',
@@ -11692,7 +11692,7 @@ sfrc:false,
 frc:'',
 ifc:[],
 ofct:false,
-ao:['si1489c:0','si1501c:1','si1852c:2','si1864c:3'],
+ao:['si1489c:4','si1501c:5','si1852c:6','si1864c:7'],
 qtc:'',
 JSONTT_4:[],
 JSONTT_5:[],
@@ -11706,7 +11706,7 @@ csfitb:false,
 quizNumberingEnabled:false,
 quizNumberingType:26,
 ail:['si1489','si1501','si1852','si1864'],
-cal:['si1489']
+cal:['si1864']
 },
 si2583:{
 name:'Slide_video_1',
@@ -67477,8 +67477,8 @@ visible:'1'
 si6593:{
 name:'Scenario-Block_1',
 type:1268,
-from:151201,
-to:151290,
+from:151471,
+to:151560,
 rp:0,
 rpa:0,
 mdi:'si6593c',
@@ -67670,8 +67670,8 @@ vb:[-1,-1,1,1]
 si6537:{
 name:'character-image_1',
 type:1268,
-from:151201,
-to:151290,
+from:151471,
+to:151560,
 rp:0,
 rpa:0,
 mdi:'si6537c',
@@ -67837,8 +67837,8 @@ vb:[-1,-1,1,1]
 si6531:{
 name:'17438-Angela',
 type:15,
-from:151201,
-to:151290,
+from:151471,
+to:151560,
 rp:0,
 rpa:0,
 mdi:'si6531c',
@@ -68019,8 +68019,8 @@ vb:[-1,-1,898,2001]
 si6587:{
 name:'Character_Group_1',
 type:1268,
-from:151201,
-to:151290,
+from:151471,
+to:151560,
 rp:0,
 rpa:0,
 mdi:'si6587c',
@@ -68195,8 +68195,8 @@ vb:[-1,-1,1,1]
 si6549:{
 name:'Text_185',
 type:1250,
-from:151201,
-to:151290,
+from:151471,
+to:151560,
 rp:0,
 rpa:0,
 mdi:'si6549c',
@@ -68348,8 +68348,8 @@ vb:[-1,-1,2,2]
 si6559:{
 name:'Text_186',
 type:1250,
-from:151201,
-to:151290,
+from:151471,
+to:151560,
 rp:0,
 rpa:0,
 mdi:'si6559c',
@@ -68501,8 +68501,8 @@ vb:[-1,-1,2,2]
 si6581:{
 name:'Button_132',
 type:29,
-from:151201,
-to:151290,
+from:151471,
+to:151560,
 rp:0,
 rpa:0,
 mdi:'si6581c',
@@ -68657,8 +68657,8 @@ vb:[-2,-2,-1,-1]
 Slide6615:{
 lb:'Character and text 1',
 id:6615,
-from:151201,
-to:151290,
+from:151471,
+to:151560,
 iols:0,
 i360qs:false,
 sdu:3,
@@ -76162,7 +76162,7 @@ vim:0,
 slides:'Slide528,Slide666,Slide667,Slide1306,Slide2565,Slide1898,Slide2217,Slide5980,Slide2722,Slide3042,Slide3424,Slide4002,Slide5331,Slide6119,Slide6192,Slide6193,Slide3425,Slide6615',
 questionSlides:'Slide1306,Slide1898,Slide2217,Slide5980,Slide3042,Slide5331,Slide6193',
 slideVideos:['si2610','si2672','si3374','si6065','si6138'],
-questions:'Slide1306q0,Slide1898q1,Slide2217q2,Slide3042q4,Slide5331q5,Slide5980q3,Slide6193q6',
+questions:'Slide1306q6,Slide1898q1,Slide2217q2,Slide3042q4,Slide5331q5,Slide5980q3,Slide6193q6',
 autoplay:false,
 preloader:true,
 preloaderFileName:'dr/loading.gif',
@@ -76199,7 +76199,7 @@ locale:0
 },
 tocProperties:{
 enableNavigation:true,
-tocProperties:'{"tocConfig":{"labels":{"TITLE":"Table of Contents","SLIDE_DETAILS":"SLIDE TITLE","DURATION":"DURATION","CLOSE_BUTTON_LABEL":"Close"},"slideDetails":[{"label":"Character and text 2","type":"slide","parentId":null,"id":"Slide528","isVisible":true,"slideVisited":false,"originalId":528,"labelShouldBeInSync":true,"isQuizSlide":false,"isResultSlide":false},{"label":"Blank 14","type":"slide","parentId":null,"id":"Slide666","isVisible":true,"slideVisited":false,"originalId":666,"labelShouldBeInSync":true,"isQuizSlide":false,"isResultSlide":false},{"label":"Blank 15","type":"slide","parentId":null,"id":"Slide667","isVisible":true,"slideVisited":false,"originalId":667,"labelShouldBeInSync":true,"isQuizSlide":false,"isResultSlide":false},{"label":"Multiple choice 1","type":"slide","parentId":null,"id":"Slide1306","isVisible":true,"slideVisited":false,"originalId":1306,"labelShouldBeInSync":true,"isQuizSlide":true,"isResultSlide":false},{"label":"Blank 16","type":"slide","parentId":null,"id":"Slide2565","isVisible":true,"slideVisited":false,"originalId":2565,"labelShouldBeInSync":true,"isQuizSlide":false,"isResultSlide":false},{"label":"Match the column 1","type":"slide","parentId":null,"id":"Slide1898","isVisible":true,"slideVisited":false,"originalId":1898,"labelShouldBeInSync":true,"isQuizSlide":true,"isResultSlide":false},{"label":"Multiple choice 2","type":"slide","parentId":null,"id":"Slide2217","isVisible":true,"slideVisited":false,"originalId":2217,"labelShouldBeInSync":true,"isQuizSlide":true,"isResultSlide":false},{"label":"Multiple choice 3","type":"slide","parentId":null,"id":"Slide5980","isVisible":true,"slideVisited":false,"originalId":5980,"labelShouldBeInSync":true,"isQuizSlide":true,"isResultSlide":false},{"label":"Blank 17","type":"slide","parentId":null,"id":"Slide2722","isVisible":true,"slideVisited":false,"originalId":2722,"labelShouldBeInSync":true,"isQuizSlide":false,"isResultSlide":false},{"label":"True or false 1","type":"slide","parentId":null,"id":"Slide3042","isVisible":true,"slideVisited":false,"originalId":3042,"labelShouldBeInSync":true,"isQuizSlide":true,"isResultSlide":false},{"label":"Blank 18","type":"slide","parentId":null,"id":"Slide3424","isVisible":true,"slideVisited":false,"originalId":3424,"labelShouldBeInSync":true,"isQuizSlide":false,"isResultSlide":false},{"label":"Blank 20","type":"slide","parentId":null,"id":"Slide4002","isVisible":true,"slideVisited":false,"originalId":4002,"labelShouldBeInSync":true,"isQuizSlide":false,"isResultSlide":false},{"label":"Match the column 2","type":"slide","parentId":null,"id":"Slide5331","isVisible":true,"slideVisited":false,"originalId":5331,"labelShouldBeInSync":true,"isQuizSlide":true,"isResultSlide":false},{"label":"Blank 7","type":"slide","parentId":null,"id":"Slide6119","isVisible":true,"slideVisited":false,"originalId":6119,"labelShouldBeInSync":true,"isQuizSlide":false,"isResultSlide":false},{"label":"Blank 5","type":"slide","parentId":null,"id":"Slide6192","isVisible":true,"slideVisited":false,"originalId":6192,"labelShouldBeInSync":true,"isQuizSlide":false,"isResultSlide":false},{"label":"True or false 2","type":"slide","parentId":null,"id":"Slide6193","isVisible":true,"slideVisited":false,"originalId":6193,"labelShouldBeInSync":true,"isQuizSlide":true,"isResultSlide":false},{"label":"Blank 19","type":"slide","parentId":null,"id":"Slide3425","isVisible":true,"slideVisited":false,"originalId":3425,"labelShouldBeInSync":true,"isQuizSlide":false,"isResultSlide":false},{"label":"Character and text 1","type":"slide","parentId":null,"id":"Slide6615","isVisible":true,"slideVisited":false,"originalId":6615,"labelShouldBeInSync":true,"isQuizSlide":false,"isResultSlide":false}],"tocGeneratedOnPreviewClick":true},"playbarConfig":{"isShowPlaybarEnabled":true,"isHidePlaybarInQuizEnabled":false,"isShowTooltipsEnabled":true,"isPlaybarControlsPlayEnabled":true,"isPlaybarControlsBackEnabled":true,"isPlaybarControlsNextEnabled":true,"isPlaybarControlsMuteEnabled":true,"isPlaybarControlsClosedCaptionsEnabled":false,"isPlaybarControlsTOCEnabled":true}}'
+tocProperties:'{"tocConfig":{"labels":{"TITLE":"Table of Contents","SLIDE_DETAILS":"SLIDE TITLE","DURATION":"DURATION","CLOSE_BUTTON_LABEL":"Close"},"slideDetails":[{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":528,"isQuizSlide":false,"label":"Character and text 2","slideVisited":false,"type":"slide","id":"Slide528"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":666,"isQuizSlide":false,"label":"Blank 14","slideVisited":false,"type":"slide","id":"Slide666"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":667,"isQuizSlide":false,"label":"Blank 15","slideVisited":false,"type":"slide","id":"Slide667"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":1306,"isQuizSlide":true,"label":"Multiple choice 1","slideVisited":false,"type":"slide","id":"Slide1306"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":2565,"isQuizSlide":false,"label":"Blank 16","slideVisited":false,"type":"slide","id":"Slide2565"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":1898,"isQuizSlide":true,"label":"Match the column 1","slideVisited":false,"type":"slide","id":"Slide1898"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":2217,"isQuizSlide":true,"label":"Multiple choice 2","slideVisited":false,"type":"slide","id":"Slide2217"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":5980,"isQuizSlide":true,"label":"Multiple choice 3","slideVisited":false,"type":"slide","id":"Slide5980"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":2722,"isQuizSlide":false,"label":"Blank 17","slideVisited":false,"type":"slide","id":"Slide2722"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":3042,"isQuizSlide":true,"label":"True or false 1","slideVisited":false,"type":"slide","id":"Slide3042"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":3424,"isQuizSlide":false,"label":"Blank 18","slideVisited":false,"type":"slide","id":"Slide3424"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":4002,"isQuizSlide":false,"label":"Blank 20","slideVisited":false,"type":"slide","id":"Slide4002"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":5331,"isQuizSlide":true,"label":"Match the column 2","slideVisited":false,"type":"slide","id":"Slide5331"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":6119,"isQuizSlide":false,"label":"Blank 7","slideVisited":false,"type":"slide","id":"Slide6119"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":6192,"isQuizSlide":false,"label":"Blank 5","slideVisited":false,"type":"slide","id":"Slide6192"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":6193,"isQuizSlide":true,"label":"True or false 2","slideVisited":false,"type":"slide","id":"Slide6193"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":3425,"isQuizSlide":false,"label":"Blank 19","slideVisited":false,"type":"slide","id":"Slide3425"},{"parentId":null,"isVisible":true,"isResultSlide":false,"labelShouldBeInSync":true,"originalId":6615,"isQuizSlide":false,"label":"Character and text 1","slideVisited":false,"type":"slide","id":"Slide6615"}],"tocGeneratedOnPreviewClick":true},"playbarConfig":{"isPlaybarControlsPlayEnabled":true,"isPlaybarControlsNextEnabled":true,"isPlaybarControlsTOCEnabled":true,"isShowPlaybarEnabled":true,"isShowTooltipsEnabled":true,"isPlaybarControlsBackEnabled":true,"isHidePlaybarInQuizEnabled":false,"isPlaybarControlsMuteEnabled":true,"isPlaybarControlsClosedCaptionsEnabled":false}}'
 },
 trecs:[{
 link:528,
@@ -76663,7 +76663,7 @@ resources:['dr/0426.jpeg']
 ,{
 slideID:11,
 ResourceList:{
-resources:['dr/01304.jpg','dr/03952.svg','dr/03974.svg','dr/0426.jpeg','dr/04620.png','dr/04744.png','dr/0475.svg','dr/04969.jpg','dr/04972.png','dr/04977.jpg']
+resources:['dr/01304.jpg','dr/03952.svg','dr/03974.svg','dr/04082.svg','dr/04095.svg','dr/0426.jpeg','dr/04620.png','dr/04744.png','dr/0475.svg','dr/04860.svg','dr/04969.jpg','dr/04972.png','dr/04977.jpg']
 }
 
 }
@@ -76698,7 +76698,7 @@ resources:['dr/01400.svg','dr/01487.png','dr/0426.jpeg','dr/0475.svg']
 ,{
 slideID:16,
 ResourceList:{
-resources:['dr/01304.jpg','dr/03847.png','dr/03900.png','dr/03952.svg','dr/03974.svg','dr/03996.jpg','dr/03998.png','dr/0426.jpeg']
+resources:['dr/01304.jpg','dr/03540.svg','dr/03847.png','dr/03900.png','dr/03952.svg','dr/03974.svg','dr/03996.jpg','dr/03998.png','dr/0426.jpeg']
 }
 
 }

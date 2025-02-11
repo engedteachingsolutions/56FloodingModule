@@ -1344,7 +1344,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide1306q0"
+"question":"Slide1306q6"
 }
 ,
 "textData":{
@@ -1360,7 +1360,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide1306q0"
+"question":"Slide1306q6"
 }
 ,
 "textData":{
@@ -1376,7 +1376,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide1306q0"
+"question":"Slide1306q6"
 }
 ,
 "textData":{
@@ -1392,7 +1392,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide1306q0"
+"question":"Slide1306q6"
 }
 ,
 "textData":{
@@ -1408,7 +1408,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide1306q0"
+"question":"Slide1306q6"
 }
 ,
 "textData":{
@@ -1424,7 +1424,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide1306q0"
+"question":"Slide1306q6"
 }
 ,
 "textData":{
@@ -1440,7 +1440,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide1306q0"
+"question":"Slide1306q6"
 }
 ,
 "textData":{
@@ -1456,7 +1456,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide1306q0"
+"question":"Slide1306q6"
 }
 ,
 "textData":{
@@ -1472,7 +1472,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide1306q0"
+"question":"Slide1306q6"
 }
 ,
 "textData":{
@@ -1488,7 +1488,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide1306q0"
+"question":"Slide1306q6"
 }
 ,
 "textData":{
@@ -1504,7 +1504,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide1306q0"
+"question":"Slide1306q6"
 }
 ,
 "textData":{
@@ -1521,7 +1521,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide1306q0"
+"question":"Slide1306q6"
 }
 ,
 "textData":{
@@ -1538,7 +1538,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide1306q0"
+"question":"Slide1306q6"
 }
 ,
 "textData":{
@@ -1555,7 +1555,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide1306q0"
+"question":"Slide1306q6"
 }
 ,
 "textData":{
@@ -1572,7 +1572,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide1306q0"
+"question":"Slide1306q6"
 }
 ,
 "textData":{
@@ -1589,7 +1589,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide1306q0"
+"question":"Slide1306q6"
 }
 ,
 "textData":{
@@ -1606,7 +1606,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide1306q0"
+"question":"Slide1306q6"
 }
 ,
 "textData":{
@@ -1623,7 +1623,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide1306q0"
+"question":"Slide1306q6"
 }
 ,
 "textData":{
@@ -1640,7 +1640,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide1306q0"
+"question":"Slide1306q6"
 }
 ,
 "textData":{
@@ -1657,7 +1657,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide1306q0"
+"question":"Slide1306q6"
 }
 ,
 "textData":{
@@ -1674,7 +1674,7 @@
 "roles":{
 "click":{
 "subtype":"button",
-"question":"Slide1306q0"
+"question":"Slide1306q6"
 }
 ,
 "textData":{
@@ -1707,7 +1707,7 @@
 "type":"knowledgeCheck",
 "interactionType":"choice",
 "ramdomized":false,
-"correctAnswers":["si1489"]
+"correctAnswers":["si1864"]
 }
 
 }
@@ -7581,6 +7581,19 @@
 "subtype":"button"
 }
 ,
+"question":{
+"interactionId":"6544",
+"quizId":-1,
+"text":"",
+"type":"graded",
+"interactionType":"choice",
+"score":{
+"weight":1,
+"penalty":0
+}
+
+}
+,
 "textData":{
 }
 
@@ -8108,7 +8121,7 @@
 "branched":false,
 "submitAll":false,
 "review":true,
-"questions":["Slide1306q0","Slide1898q1","Slide2217q2","Slide3042q4","Slide5331q5","Slide5980q3","Slide6193q6"],
+"questions":["Slide1306q6","Slide1898q1","Slide2217q2","Slide3042q4","Slide5331q5","Slide5980q3","Slide6193q6"],
 "minScore":0,
 "maxScore":0,
 "passScore":0
@@ -8144,28 +8157,7 @@
 "SCCriteria":"launch_content",
 "exitNormalIfCompleted":false
 }
-"eventVideos":[{
-"id":"si2610",
-"uri":"https://www.youtube.com/watch?v=3YdEkegvJCQ&t=88s"
-}
-,{
-"id":"si2672",
-"uri":"https://www.youtube.com/watch?v=3YdEkegvJCQ&t=88s"
-}
-,{
-"id":"si3374",
-"uri":"https://www.youtube.com/watch?v=3YdEkegvJCQ&t=88s"
-}
-,{
-"id":"si6065",
-"uri":"https://www.youtube.com/watch?v=m_ZLyzByj98&t=1s"
-}
-,{
-"id":"si6138",
-"uri":"https://www.youtube.com/watch?v=m_ZLyzByj98&t=1s"
-}
-]
-,,"toc":[{
+,"toc":[{
 "id":"Slide528",
 "title":"Character and text 2"
 }
